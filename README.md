@@ -38,5 +38,5 @@ Systems engineer focused on network defense, decentralized architecture, and opt
 
 <!-- Integration placeholders for automatic updates -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChefCob&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
